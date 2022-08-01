@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="441.995pt"
+   height="560.10156pt"
+   version="1.1"
+   viewBox="0 0 441.995 560.10156"
+   id="svg352"
+   sodipodi:docname="noun-spartan-helmet-4588848.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview354"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.93321429"
+     inkscape:cx="98.584003"
+     inkscape:cy="336.47149"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g350" />
+  <defs
+     id="defs268">
+    <linearGradient
+       id="GoldGradientDefault">
+      <stop
+         id="stop00"
+         offset="0.0"
+         style="stop-color:#c5a000;stop-opacity:1.0" />
+      <stop
+         id="stop01"
+         offset="0.41057935"
+         style="stop-color:#fbdb00;stop-opacity:1.0" />
+      <stop
+         id="stop02"
+         offset="0.63476068"
+         style="stop-color:#fbdb00;stop-opacity:1.0" />
+      <stop
+         id="stop03"
+         offset="1.0"
+         style="stop-color:#c5a000;stop-opacity:1.0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#GoldGradientDefault"
+       id="linearGradient1328"
+       x1="129.004"
+       y1="279.9465"
+       x2="570.99902"
+       y2="279.9465"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g350"
+     transform="translate(-129.004,0.10428544)">
+    <path
+       d="m 203.77,129.74 c -56.441,116.54 -13.926,217.7 -74.766,309.32 11.727,-5.8633 22.723,-11.727 34.449,-18.324 5.1328,-29.32 10.262,-58.641 15.395,-87.957 74.766,-23.457 119.48,-15.395 142.93,5.8633 -31.52,11.727 -71.832,6.5977 -127.54,30.785 -9.5273,64.504 -27.121,128.27 -63.035,190.57 155.39,-19.059 76.23,-95.289 246.28,-76.965 -30.785,-57.172 12.461,-142.93 35.918,-155.39 -16.125,24.188 -24.922,47.645 -18.324,70.367 31.52,1.4648 45.445,4.3984 54.242,18.324 16.859,37.383 77.695,90.891 121.68,98.219 -59.371,-200.84 10.996,-231.62 -7.3281,-307.85 -8.7969,5.8633 -17.59,10.262 -27.852,13.926 41.047,-53.508 -13.926,-153.93 -54.242,-185.45 10.996,41.781 -5.8633,81.359 -14.66,93.82 3.6641,-37.383 -20.523,-68.168 -35.918,-82.094 -68.902,-65.969 -226.49,-46.18 -295.39,-36.648 l 161.26,157.59 c 73.297,-17.59 114.34,11.727 147.33,63.035 24.188,38.113 30.051,84.293 22.723,129 0.73438,-13.926 -2.9336,-26.387 -2.9336,-26.387 -10.996,11.727 -22.723,17.59 -34.449,16.125 14.66,-5.8633 28.586,-16.125 32.984,-28.586 0,0 0.73438,-75.496 -57.906,-118.74 -58.641,-42.512 -149.53,-1.4648 -149.53,-1.4648 33.719,54.242 82.094,90.156 142.2,112.15 0,0 -136.34,-14.66 -193.51,-183.25 z"
+       fill-rule="evenodd"
+       id="path270"
+       style="fill:url(#linearGradient1328);fill-opacity:1" />
+  </g>
+</svg>

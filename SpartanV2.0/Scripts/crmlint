@@ -1,0 +1,29 @@
+#!/bin/bash
+
+read -p "Rmlint? [Y/N]: " _YN2_
+
+
+if [[ $_YN2_ = "Y" || $_YN2_ = "Yes" || $_YN2_ = "y" || $_YN2_ = "yes" ]]; 
+then
+	rmlint ~/
+	read -p "Execute [rmlint]? [Y/N]: " _RM_
+
+else
+	sudo rm -rf ~/rmlint.*
+fi
+
+echo
+echo
+
+if [[ $_RM_ = "Y" || $_RM_ = "Yes" || $_RM_ = "y" || $_RM_ = "yes" ]];
+
+then
+	sudo sh -c ~/rmlint.sh
+	echo "Rmlint executed!"
+
+else
+	sudo rm -rf ~/rmlint*
+fi
+
+echo
+echo "Finished cleaning!"

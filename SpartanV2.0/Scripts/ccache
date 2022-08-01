@@ -1,0 +1,13 @@
+#!/bin/bash
+
+read -p "Clean cache? [Y/N]: " _CA_
+
+
+if [[ $_CA_ = "Y" || $_CA_ = "Yes" || $_CA_ = "y" || $_CA_ = "yes" ]];
+then
+	echo "Cache before:"
+	du -sh ~/.cache/
+	sudo rm -rf ~/.cache/*
+	echo "Cache after:"
+	du -sh ~/.cache
+fi

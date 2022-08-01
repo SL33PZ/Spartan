@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo pacman --sync --refresh --sysupgrade --color=auto

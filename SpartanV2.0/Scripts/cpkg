@@ -1,0 +1,14 @@
+#!/bin/bash
+
+sudo pacman -Qqd | pacman -Rsu --print -
+read -p "Delete all unneeded packages? [Y/N]: " _UN_
+
+if [[ $_YN_ = "Y" || $_YN_ = "Yes" || $_YN_ = "y" || $_YN_ = "yes" ]]; then
+
+	su - sudo
+	sudo pacman -Qqd | pacman -Rsu
+	exit
+else
+	echo ""
+fi
+
